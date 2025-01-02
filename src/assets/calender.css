@@ -1,0 +1,47 @@
+  /* Estilo para os botões do grupo */
+  .fc-button-group .fc-button {
+      background-color: #018538;
+      border-color: #018538;
+      color: white;
+      border-radius: 5px;
+  }
+
+  /* Estilo para o botão ativo */
+  .fc-button-group .fc-button-active {
+      background-color: #069541 !important;
+      border-color: #069541 !important;
+      color: white !important;
+  }
+
+  /* Estilo para o botão no hover */
+  .fc-button-group .fc-button:hover {
+      background-color: #069642 !important;
+      border-color: #069642 !important;
+      color: white;
+      border: none;
+  }
+
+  /* Estilo para os botões da barra de navegação */
+  .fc-toolbar .fc-button {
+      background-color: #018538;
+      border-color: #018538;
+      color: white; 
+      border-radius: 5px;
+  }
+
+  /* Botão ativo na barra de navegação */
+  .fc-toolbar .fc-button.fc-button-active {
+      background-color: #069541 !important;
+      border-color: #069541 !important;
+      color: white !important;
+  }
+
+  /* Botões da barra de navegação no hover */
+  .fc-toolbar .fc-button:hover {
+      background-color: #069642 !important;
+      border-color: #069642 !important;
+      color: white;
+      border: none;
+  }
+ 
+

@@ -1,0 +1,144 @@
+
+:root {
+  --primary: #018538;
+  --secondary: #018538;
+  --grey: #fff;
+  --grey-lighter: #7e99bf;
+  --dark-alt: #eaeaea;
+  --light: #5f5a5a;
+  --light-dark: #e4e8ed;
+  --red: #fa0202;
+  --sidebar-width: 300px;
+}
+
+.img_full_publico{
+  width: 70px;
+}
+
+.horarios{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.loading{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 20px;
+}
+
+.titulo{
+  font-size: 16px;
+  color: #6e6b6b;
+}
+
+.titulo-chip{
+  font-size: 12px; 
+}
+
+.text-center{
+  text-align: center;
+}
+
+.span-error{
+  color: hsl(0, 64%, 41%);
+}
+
+.qrcode{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.qrcode span{
+  line-height: 3rem;
+  font-weight: bold;
+}
+
+.wrapper {
+  align-items: center;
+  background-color: var(--dark-alt);
+  padding: 5rem;
+  overflow: hidden;
+  min-height: 100dvh;
+  position: relative;
+  --el-fill-color-blank: var(--light-dark);
+  --el-border-color: var(--light);
+}
+
+.title {
+  font-size: 16px;
+  text-align: center;
+}
+
+.display {
+  width: 100%;
+  padding: 50px 50px;
+}
+
+.display-carregamento {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+}
+
+.display-carregamento p {
+   font-weight: bold;
+   text-align: center;
+   margin-top: 15px;
+}
+
+.titulo-container {
+  margin-bottom: 10px; 
+  border-left: 4px solid #018538;
+  border-radius: 5px;
+  display: flex;
+}
+
+.isColuna {
+  flex-direction: column;
+}
+
+.titulo-container h1 {
+  padding-left: 10px;
+  font-size: 21px;
+}
+
+.titulo-container  .subtitulo {
+  padding-left: 10px;
+}
+
+.perfil-dados{
+  padding: 10px 0px;
+}
+
+.tabela-titulo{
+  display: flex;
+  align-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+ 
+@media (max-width: 310px)    {
+  .display-carregamento p {
+    font-size: 12px;
+  }
+  .perfil-dados{
+    text-align: center;
+  }
+  .perfil-dados > h3, p, 
+  .perfil-lista-item-dados,
+  .titulo-container  .subtitulo{
+    font-size: 14px;
+  }
+  .titulo-container h1{
+    font-size: 15px;
+  }
+  .v-chip__content,
+  tr, th, td{
+    font-size: 12px;
+  }
+}
