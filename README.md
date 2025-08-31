@@ -6,7 +6,7 @@ VueJs 3 + Vuetify 3
  - Execute 'npm install' para instalar as dependencias do projeto
  - Execute 'npm run dev' para subir o projeto na porta :8080    
 
-Para acessar aplicação, utilize marcos.ggoncalves.pr@gmail.com e a senha: 12345
+Para acessar aplicação, utilize 000.000.000-10 e a senha: 12345
 
 Para acessar o projeto backend <a href="https://github.com/marcosggoncalves/api-agendamento-salas">Repositório</a>
 
