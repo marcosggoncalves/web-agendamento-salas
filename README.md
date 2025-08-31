@@ -27,6 +27,6 @@ Para acessar o projeto backend <a href="https://github.com/marcosggoncalves/api-
  ## Tela 5 - Suprimentos
 ![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-agendamento-salas/blob/master/prints/Salas.png)
 
- ## Tela 5 - Suprimentos
-![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-agendamento-salas/tree/master/prints/AlteracaoHorario.png)
+ ## Tela 5 - Suprimentos Alterar Configurações
+![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-agendamento-salas/blob/master/prints/AlteracaoHorario.png)
 
