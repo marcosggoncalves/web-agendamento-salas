@@ -1,4 +1,4 @@
-# Aplicação para agendamento e reserva de salas e veiculos - Suprimentos
+# Aplicação para agendamento e reserva de Suprimentos
 
 VueJs 3 + Vuetify 3
 
@@ -11,22 +11,22 @@ Para acessar aplicação, utilize marcos.ggoncalves.pr@gmail.com e a senha: 1234
 Para acessar o projeto backend <a href="https://github.com/marcosggoncalves/api-agendamento-salas">Repositório</a>
 
  ## Tela 1 - Login
-![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-educar/blob/master/prints/Login.png)
+![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-agendamento-salas/blob/master/prints/Login.png)
 
- ## Tela 2 - Cadastro Aluno
-![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-educar/blob/master/prints/Cadastro.png)
+ ## Tela 2 - Nova Reserva
+![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-agendamento-salas/blob/master/prints/Nova%20Reserva.png)
 
- ## Tela 3 - Visão Coordenação(Organização)
-![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-educar/blob/master/prints/Coordenacao%20Menu.png)
+ ## Tela 3 - Nova Reserva Multiplos Horarios
+![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-agendamento-salas/blob/master/prints/Reserva.png)
 
-![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-educar/blob/master/prints/Coordenacao.png)
+![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-agendamento-salas/blob/master/prints/Painel.png)
 
- ## Tela 4 - Visão Aluno
-![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-educar/blob/master/prints/Aluno.jpg)
+ ## Tela 4 - Departamentos
+![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-agendamento-salas/blob/master/prints/Departamentos.png)
 
-![Painel da Aplicação - TELA 2](https://github.com/marcosggoncalves/web-educar/blob/master/prints/Aluno%20Revisao.jpg)
+ ## Tela 5 - Suprimentos
+![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-agendamento-salas/blob/master/prints/Salas.png)
 
- ## Tela 4 - Visão Avaliador
-![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-educar/blob/master/prints/Avaliador.jpg)
+ ## Tela 5 - Suprimentos
+![Painel da Aplicação - TELA 1](https://github.com/marcosggoncalves/web-agendamento-salas/tree/master/prints/AlteracaoHorario.png)
 
-![Painel da Aplicação - TELA 2](https://github.com/marcosggoncalves/web-educar/blob/master/prints/Avaliador%20Avaliacao.png)
